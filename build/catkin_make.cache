@@ -1,0 +1,2 @@
+thor_scripts
+-DCATKIN_DEVEL_PREFIX=/home/elijah/thor_ws/devel -DCMAKE_INSTALL_PREFIX=/home/elijah/thor_ws/install -G Unix Makefiles

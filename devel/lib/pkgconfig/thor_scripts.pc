@@ -1,0 +1,8 @@
+prefix=/home/elijah/thor_ws/devel
+
+Name: thor_scripts
+Description: Description of thor_scripts
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
